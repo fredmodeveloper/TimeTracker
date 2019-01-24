@@ -1,0 +1,12 @@
+D:\projects\TimeTracker\TimeTracker\DataModel\bin\Debug\DataModel.dll
+D:\projects\TimeTracker\TimeTracker\DataModel\bin\Debug\DataModel.pdb
+D:\projects\TimeTracker\TimeTracker\DataModel\obj\Debug\DataModel.dll
+D:\projects\TimeTracker\TimeTracker\DataModel\obj\Debug\DataModel.pdb
+D:\projects\TimeTracker\TimeTracker\DataModel\bin\Debug\DataModel.dll.config
+D:\projects\TimeTracker\TimeTracker\DataModel\bin\Debug\EntityFramework.dll
+D:\projects\TimeTracker\TimeTracker\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\TimeTracker\TimeTracker\DataModel\bin\Debug\EntityFramework.xml
+D:\projects\TimeTracker\TimeTracker\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\TimeTracker\TimeTracker\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+D:\projects\TimeTracker\TimeTracker\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+D:\projects\TimeTracker\TimeTracker\DataModel\obj\Debug\DataModel.csproj.CopyComplete
